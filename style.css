@@ -1,23 +1,10 @@
-.luffy
+.a
 {
-    background-image:linear-gradient(rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)), url('luffy.jpg');
-    height:100vh;
-    
+    border:20px solid yellow;
+    margin:40px;
 }
-*
+.b
 {
-    margin:0;
-    padding:0;
-    box-sizing: border-box;
-}
-li
-{
-    display: inline-block;
-    float:right;
-}
-.paragraph
-{
-font-size:400%;
-padding:500px 500px 500px 550px;
-font-weight:bold;
+    border:20px solid yellow;
+    margin:40px;
 }
